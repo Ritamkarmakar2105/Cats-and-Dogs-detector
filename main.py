@@ -7,7 +7,7 @@ from pathlib import Path
 # Initialize the InferenceHTTPClient
 CLIENT = InferenceHTTPClient(
     api_url="https://serverless.roboflow.com",
-    api_key="RAO3qcOxTrwgNcnSGrMD"
+    api_key="Your Roboflow API key"
 )
 
 # Define dataset and output paths
