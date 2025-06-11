@@ -1,0 +1,5 @@
+opencv-python==4.10.0.84
+numpy==1.26.4 
+inference-sdk==0.9.17
+given dataset
+Some software(WINRAR) for extracting the dataset 
